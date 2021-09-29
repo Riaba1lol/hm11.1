@@ -1,0 +1,38 @@
+.a {
+  height: 430px;
+  width: 280px;
+  padding-left: 5px;
+  box-sizing: border-box;
+
+  border: 1px solid black;
+}
+.photo {
+  display: block;
+  margin-bottom: 20px;
+  width: 80%;
+  margin: auto;
+}
+.b {
+  font-family: "Roboto";
+  font-weight: 700;
+  margin: 0px;
+  font-size: 20px;
+}
+.c {
+  font-family: "Roboto";
+  font-weight: 700;
+  font-size: 20px;
+}
+.d {
+  display: block;
+  height: 45px;
+  width: 84%;
+  background-color: rgba(238, 170, 210, 0.863);
+  color: rgb(100, 100, 100);
+  font-family: "Roboto";
+  margin: auto;
+  text-align: center;
+  line-height: 45px;
+  margin-top: 30px;
+  text-decoration: none;
+}
